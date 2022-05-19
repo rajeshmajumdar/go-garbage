@@ -1,7 +1,7 @@
 package main
 
 import ( "fmt"
-		 "demoPackage"
+		 "github.com/rajeshmajumdar/go-garbage/tree/master/demoPackage"
  	   )
 
 func main() {
